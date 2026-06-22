@@ -5,7 +5,6 @@ Discord Rich Presence for Sonic.EXE The Disaster 2D Remake
 ## Features
 - Shows current level
 - Shows current character (Survivors & EXE)
-- Misc i think
 
 ## Credits
 
