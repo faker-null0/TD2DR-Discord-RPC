@@ -11,7 +11,7 @@ Discord Rich Presence for Sonic.EXE The Disaster 2D Remake
 - [TD2DR Client](https://github.com/teamexeempire/disaster2d-oss) - disaster2d-oss
 - [Neko Presence](https://github.com/nkrapivin/NekoPresence) - Discord RPC Extension
 
-**Author:** [faker-null0](https://github.com/faker-null0)
+**Author:** [Faker](https://github.com/faker-null0)
 **Contributor:** [Assasin4568](https://github.com/Assaspuskin4568)
 
 *You can use this without credit, but it would be nice if you mention me*
