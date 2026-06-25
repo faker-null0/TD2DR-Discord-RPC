@@ -1,7 +1,7 @@
 # TD2DR Discord RPC
 
-Discord Rich Presence for Sonic.EXE The Disaster 2D Remake
-Made on **GameMaker LTS 2026**
+- Discord Rich Presence for Sonic.EXE The Disaster 2D Remake
+- Made on **GameMaker LTS 2026**
 
 ## Features
 - Shows current level
